@@ -13,3 +13,7 @@ bin/*.exe
 .vs
 *.pdb
 *.ilk
+
+bin64/
+
+build/

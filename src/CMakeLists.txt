@@ -7,6 +7,7 @@ include_directories(../LASzip/src)
 include_directories(../LASlib/inc)
 
 set(GEOPROJECTION_TARGETS
+    mylasexample
 	laszip
 	lasinfo
 	lasprecision

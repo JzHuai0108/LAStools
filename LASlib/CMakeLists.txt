@@ -8,5 +8,5 @@ else()
 	add_definitions(-D_CRT_SECURE_NO_WARNINGS)
 endif()
 
-add_subdirectory(LASlib/src)
-add_subdirectory(LASlib/example)
+add_subdirectory(src)
+add_subdirectory(example)
